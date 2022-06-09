@@ -1,5 +1,5 @@
 <h1 align="center">
-📄<br>Padrões de commits 
+📄<br>Padrões de commits
 </h1>
 
 De acordo com a documentação do **Conventional Commits**, Commits Semânticos são uma convenção simples para ser utilizada nas mensagens de commit. Essa convenção define  um conjunto de regras para criar um histórico de commit explícito, o que facilita a criação de ferramentas automatizadas.
@@ -218,7 +218,7 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
 <table>
   <thead>
     <tr>
-      <th>Comando git</th>
+      <th>Comandos git</th>
       <th>Resultado no GitHub</th>
     </tr>
   </thead>
